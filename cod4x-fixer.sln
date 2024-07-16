@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cod4x-fixer", "cod4x-fixer.csproj", "{D5B64789-1A00-4EAE-8A7C-ECF24888DEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B64789-1A00-4EAE-8A7C-ECF24888DEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B64789-1A00-4EAE-8A7C-ECF24888DEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B64789-1A00-4EAE-8A7C-ECF24888DEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B64789-1A00-4EAE-8A7C-ECF24888DEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {423D19B8-E7B8-485B-BCB8-BB20157EB773}
+	EndGlobalSection
+EndGlobal
