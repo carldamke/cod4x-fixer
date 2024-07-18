@@ -23,7 +23,7 @@ namespace cod4x_fixer
             LoadRegistryValue();
             LoadComboBox();
 
-            Icon = new Icon("./cod4.ico");
+            Icon = new Icon("cod4.ico");
         }
 
         private void LoadUserSid()
